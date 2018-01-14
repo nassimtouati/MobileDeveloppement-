@@ -2,7 +2,6 @@
 Ionic Framework &amp; MongoDB &amp; AngularJS
 # Exchange Voucher application
 
-by Nassim TOUATI (M2 ERASMUS) and Nour houda ROUATBI (M2 DSC)
 
 #Project description:
 
